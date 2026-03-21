@@ -1,0 +1,6 @@
+﻿#!/usr/bin/env php
+<?php
+
+/**
+ * Purpose: Placeholder Laravel Artisan CLI entry point for the backend application.
+ */

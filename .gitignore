@@ -1,0 +1,22 @@
+# Backend
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/storage/*.key
+backend/storage/logs/
+backend/storage/framework/
+backend/bootstrap/cache/*.php
+backend/public/storage
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# General
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
