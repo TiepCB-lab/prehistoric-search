@@ -1,0 +1,11 @@
+﻿{
+  "name": "prehistoric-search-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Feature-based React SPA skeleton for Prehistoric Search.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
